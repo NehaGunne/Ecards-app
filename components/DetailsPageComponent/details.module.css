@@ -1,0 +1,19 @@
+.price{
+    font-weight: 800;
+    font-size: 22px;
+}
+
+.reviews{
+    background-color: white;
+    padding:20px;
+  
+  }
+  .review_details{
+    margin-top: 25px;
+    padding:20px;
+  }
+  .review_details>p{
+    font-weight: 500;
+    color:gray;
+  
+  }

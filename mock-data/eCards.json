@@ -1,0 +1,97 @@
+[
+    {
+    "id":1,
+    "img": "/images/1.jpg",
+    "title": "Amazon Pay eGift Card",
+    "rating": 4.5,
+    "price": 1500,
+    "stripeid":"price_1L1B2SSGHZ8L8h5ILiwhCATR",
+    "description":"Amazon Pay Gift Cards are valid for 365 days from the date of purchase and carry no fees. E-Gift Cards scheduled for a future date are valid for 15 months from the date of purchase.For email gift cards scheduled for a future date, re-send will be available after 5 AM on the scheduled delivery date.Redeemable across all products on Amazon except apps, certain global store products and other Amazon Pay gift cards.Choose from over 350+ gift card designs covering 35+ occasions and 9 Indian languages.Choose any denomination from Rs.10 to Rs.10000Beneficiary can apply the 14 digit code (under scratch card) on amazon.in/addgiftcard and add the gift card balance in his/her Amazon.in account. This balance gets automatically applied at the time of next purchase. There is no cap on number of gift cards that can be added to an account.Amazon Pay Gift Cards cannot be refunded or returned.ASIN ‏ : ‎ B00KGE2ER2"
+  },
+  {
+    "id":2,
+    "img": "/images/2.jpg",
+    "title": "Myntra Pay eGift Card",
+    "rating": 4.0,
+    "price": 3000,
+    "stripeid":"price_1L1Cc9SGHZ8L8h5IjzydGyMF",
+    "description":"Choose the Myntra gift vouchers denomination worth Rs 100 to Rs 2000 or even more from Zingoy. Click add to cart. Add the number of gift cards you want to buy. Then go to the cart."
+},
+{
+    "id":9,
+    "img": "/images/9.jpg",
+    "title": "Flat 5% off at checkout||KFC E-Gift Card",
+    "rating": 4.8,
+    "price":500,
+    "stripeid":"price_1L1CduSGHZ8L8h5IVJG8Ep7m",
+    "description":"Kentucky Fried Chicken or KFC is an American fast food restaurant chain that specializes in fried chicken offers a wide variety of signature dishes with a host of beverages and desserts for non-vegetarian lovers. Use this at 500+ outlets across India."
+
+},
+{
+    "id":3,
+    "img": "/images/3.jpg",
+    "title": "Book my show eGift Card",
+    "rating": 3.5,
+    "price": 1000,
+    "stripeid":"price_1L1CfCSGHZ8L8h5IAHbBwbHf",
+    "description":"Gift someone you love, the joy of entertainment with a BookMyShow Gift Card. Book My Show is India's largest movie and entertainment ticketing portal. Present across 350+ cities and 1600+ movie theatres, we enable our users to book movie tickets in advance, choose the best seats and beat the queue across the length and breadth of India. And that's not all: we are the one-stop shop for booking tickets to the best plays, sports events, adventure experiences, events and concerts in India. From IPL tickets to Sunburn Goa, we have it all. Our mobile apps and websites attract more than 20 million visitors each month. Our gift cards are valid throughout India for purchasing any tickets on our website and apps. So go ahead, gift a BookMyShow gift card. Whether it is to express your love for someone, or to send in a note of thanks, you're sure to make someone's day and spread cheer !"
+},
+{
+    "id":5,
+    "img": "/images/5.jpg",
+    "title": "MakeMyTrip - Digital Voucher",
+    "rating": 4.8,
+    "price":20000,
+    "stripeid":"price_1L1CgOSGHZ8L8h5IXLBu4VxQ",
+    "description":"Gift cards are valid on bookings made through MMT Mobile App. 2. In case of transaction failures after Gift card is applied, amount would be automatically refunded to the same cards within 24 hours. 3. Products and services are subject to availability. 4. The Gift card cannot be cancelled or exchanged for cash. 5. The Gift card validity cannot be extended under any circumstances. 6. Gift Card code/Physical copy or both to be provided at the time of booking along with an ID proof for the offline redemption. 7. MakeMyTrip is not responsible if the Gift card is lost, stolen or used without permission. 8. Flights & Hotels are not redeemable offline. 9. In case of cancellation of bookings made using the gift card within the validity period, the amount will be reversed to the same card as used at the time of booking. 10. Users are required to save the gift card number and PIN to utilize this refunded amount as we will not be able to reset the PIN or reissue a new gift card number. 11. In case of cancellations where the gift card validity has expired, no refund will be processed for the amount paid by the gift card. 12. MakeMyTrip is the final authority on the interpretation of these rules 13. MakeMyTrip reserves the right to deny accepting any Gift card if it suspects that there is duplicity of cards. 14. In no event the liability of MakeMyTrip for any claims shall exceed the value of the card. 15. In the event of any dispute, parties agree to exclusive jurisdiction of courts of New Delhi. 16. This is for individual use only, Travel agents found using the card would lead to cancellation of booking and no refund would be made. "
+},
+{
+    "id":6,
+    "img": "/images/6.jpg",
+    "title": "ClearTrip - Digital Voucher",
+    "rating": 3.8,
+    "price":12000,
+    "stripeid":"price_1L1ChkSGHZ8L8h5Iyp8IeGSr",
+    "description":"Sometimes it's the journey that teaches you a lot about your destination. Make that journey special for your loved ones by gifting them a Cleartrip.com Gift Card. Cleartrip.com is the perfect place for all your travel needs that gives you hassle free bookings. They are focused on simplicity, comprehensibility, reliability and responsibility to give the best travel service to their customers. Booking flights or hotel rooms has never been so fast, or this easy. Whether it is Manali- its pristine snow and relaxed pace of life or it is Goa- India’s favourite beach retreat with all the fun, frolic and party. No place is too far with Cleartrip.com"
+},
+{
+    "id":7,
+    "img": "/images/7.jpg",
+    "title": "Lakme Salon - Digital Voucher",
+    "rating": 4.8,
+    "price":5000,
+    "stripeid":"price_1L1CjLSGHZ8L8h5IYZyILlPB",
+    "description":"Lakme Salons are dedicated towards the evolvement of the modern Indian woman and her exploration of beauty. Lakme Salons bring a plethora of beauty and grooming services that proudly match up to international standards. Its repertoire of professional beauty experts and hair stylists are much sought after by the contemporary Indian women who are looking to explore the fine art of beauty to the fullest and only by the best. Treat your loved ones to a gift you know they'll like! Try Lakme Salon Gift Card as a gift for a birthday, thank you, graduation, wedding, holiday or any other special occasion. Great for all the gorgeous ladies in your life."
+
+},
+{
+    "id":4,
+    "img": "/images/3.jpg",
+    "title": "JioSaavn E-Gift Card - 1 Year subscription",
+    "rating": 3.0,
+    "price":399,
+    "stripeid":"price_1L1CkvSGHZ8L8h5IuSJXIcCs",
+    "description":"JioSaavn Pro e-Gift Cards make it easy for you to give your loved ones the best music listening experience available. With a JioSaavn Pro account, your lucky giftee can download all his or her favourite music and listen to it whenever, wherever - on those boring morning flights, those endless train rides, or, even better, while chilling on a remote beach. JioSaavn Pro is the perfect gift for any occasion and any recipient - from your boss to your boo."
+},
+{
+    "id":8,
+    "img": "/images/8.jpg",
+    "title": "Flat 10% off at checkout||VLCC - Digital Voucher",
+    "rating": 4.8,
+    "price":3000,
+    "stripeid":"price_1L1ClqSGHZ8L8h5IIGBLB3fw",
+    "description":"VLCC is widely recognized in India and abroad for its holistic, scientific and completely natural weight-management practices and therapeutic beauty solutions addressing the mind and body. VLCC e-Gift Card is one of the best gift your mom, sister or friend could ever expect, so make it happen by just gifting one."
+
+},
+{
+    "id":10,
+    "img": "/images/10.jpg",
+    "title": "McDonald’s McCafe Gift Card -Silver",
+    "rating": 5.0,
+    "price":450,
+    "stripeid":"price_1L1Cn4SGHZ8L8h5IZLGY08OZ",
+    "description":"Hardcastle Restaurants Private Limited (“HRPL”) operates quick service restaurants in the West and South of India under the brand name of ‘McDonald’s’. HRPL for ease of reference is hereinafter referred to as “McDonald’s”. McDonald’s has introduced an ‘McDonald’s McCafe Gift Card -Silver (Instant Voucher) “the Card” or “card”. Save 64% - Buy 4 Coffee Get 3 Free. The Card permits the owner to purchase products in McDonald’s restaurants across west and south of India."
+
+}
+
+]

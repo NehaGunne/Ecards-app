@@ -1,0 +1,38 @@
+[
+  {
+    "email": "nehagunne9@gmail.com",
+    "password": "$2a$12$Y6cUP5KsEOxbKdshXtqqsO6k8GakB8n4goS9xiGrV7RzGZQABuhDS",
+    "name": "Neha Gunne",
+    "mobile": "7661072549",
+    "userimg": "/images/users/girl-avatar.png",
+    "address": "H.NO:4-4-130,Gandhi colony,Vikarabad",
+    "id": "l38j26ew"
+  },
+  {
+    "email": "test@gmail.com",
+    "password": "$2a$12$5Uy70r6QxsTfPzVQLNuYmOwr4mBgIVm0IVSYEknqfDT1L3AAYxuSi",
+    "userimg": "/images/users/1653563819183--neha_whiteBg_pic.png",
+    "mobile": "6789678575",
+    "address": "614 FONTANA BLVD., HAVELOCK, United States",
+    "name": "Jane Doe",
+    "id": "l3mx7d4e"
+  },
+  {
+    "email": "test123@gmail.com",
+    "password": "$2a$12$Wn0BPxAu/bQsh32jyZpCFO4dxwZsCNag5ULQJnIShKGX7.WQNC2ne",
+    "userimg": "/images/users/user.png",
+    "mobile": "9748904875",
+    "address": "614 FONTANA BLVD., HAVELOCK, United States",
+    "name": "test ",
+    "id": "l3mxcelq"
+  },
+  {
+    "email": "usha@gmail.com",
+    "password": "$2a$12$AKpOZuq8f84oskkVPyC1W.HXFl6r2T6AeVLgSY/bC4mDQoYfau7tW",
+    "userimg": "/images/users/1653564327995--Neha1.jpg",
+    "mobile": "9492064679",
+    "address": "Gandhi colony",
+    "name": "usha ",
+    "id": "l3mxi9qc"
+  }
+]
